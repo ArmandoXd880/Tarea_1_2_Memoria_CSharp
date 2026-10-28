@@ -1,0 +1,6 @@
+Coloca aquí tus capturas REALES de la ejecución:
+01_arreglo.png
+02_lista.png
+03_medicion.png
+
+El reporte incluye espacios para insertarlas. No se han inventado capturas.

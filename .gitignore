@@ -1,0 +1,7 @@
+# Archivos generados por .NET / Visual Studio
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
